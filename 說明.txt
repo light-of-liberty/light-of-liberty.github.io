@@ -1,0 +1,9 @@
+cd C:\Users\a9502\網站
+
+git status
+
+git add .
+
+git commit -m "更新網站內容"
+
+git push origin gh-pages
