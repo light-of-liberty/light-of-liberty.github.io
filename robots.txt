@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://light-of-liberty.github.io/sitemap.xml
