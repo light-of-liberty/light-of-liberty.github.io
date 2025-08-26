@@ -1,0 +1,44 @@
+cd C:\Users\a9502\網站
+
+git status
+
+git add .
+
+git commit -m "修了臭蟲"
+
+git push origin gh-pages
+
+
+// ======================================================================
+// 自由之光（Light of Liberty）著作權聲明與使用規範
+// Copyright Notice and Terms of Use by Light of Liberty
+//
+// 本程式碼及相關檔案（包括但不限於圖片、音訊、視訊與文字）之著作權，
+// 均屬「自由之光（Light of Liberty）」團隊所有，並受中華民國著作權法
+// 及國際法規保護。
+//
+// This source code and associated files (including but not limited to
+// images, audio, video, and text) are the intellectual property of the
+// "Light of Liberty" team and are protected by copyright laws.
+//
+// 未經明確書面許可，嚴禁以任何形式進行以下行為：
+// 1. 複製、修改、再分發本程式碼。
+// 2. 在未經授權的情況下，使用本作品中的任何圖片或資產。
+//
+// The following actions are strictly prohibited without prior written permission:
+// 1. Reproduction, modification, or redistribution of this source code.
+// 2. Unauthorized use of any images or assets contained within this work.
+//
+// 追溯聲明 (Traceability Notice)：
+// 本程式碼包含「自由之光」獨有的標記。任何部分或完整複製本程式碼，
+// 皆可能攜帶這些標記，使我們得以追溯其來源。
+//
+// This code contains unique markers owned by "Light of Liberty." Any
+// partial or full reproduction of this code may carry these markers,
+// allowing us to trace its origin.
+//
+// 聯絡信箱（Contact）: light.of.liberty.2023@gmail.com
+//
+// © 2024 自由之光（Light of Liberty）. 保留所有權利。
+// © 2024 Light of Liberty. All Rights Reserved.
+// ======================================================================

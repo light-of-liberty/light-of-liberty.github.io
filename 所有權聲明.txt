@@ -1,0 +1,65 @@
+我了解了，非常感謝您的回饋。一個更詳細、更全面的版權聲明是保護「自由之光」及其作品的重要一步。
+
+以下是根據您的要求，為「自由之光」量身打造的加強版版權聲明。它包含了更詳細的權利範圍、使用規範，以及重要的聯繫方式。
+
+強化版權聲明範本
+您可以將以下內容保存為一個獨立的文字檔案，例如 LICENSE.txt 或 COPYRIGHT.txt，並將其放在您的資料夾中。
+
+自由之光 - 版權聲明與使用規範
+
+生效日期：2024年8月27日
+
+本聲明適用於由「自由之光（Light of Liberty）」團隊所創作與擁有之所有數位內容與實體作品，包括但不限於：
+- 官方網站（light-of-liberty.github.io）
+- 所有音樂、音訊、影像與視訊作品
+- 網站上的所有文字、圖片、動畫與程式碼
+- 虛擬歌手（V-Singer）的形象、設定與相關作品
+
+所有上述內容之著作權均屬「自由之光」團隊所有，並受中華民國著作權法及相關國際法規保護。
+
+未經「自由之光」團隊明確書面許可，禁止以下行為：
+1.  **重製與散布**：嚴禁以任何形式複製、轉載、修改、發布或傳播本作品的任何部分內容。
+2.  **商業用途**：嚴禁將本作品用於任何形式的商業目的，包括但不限於營利性演出、販售商品或進行廣告宣傳。
+3.  **二次創作**：如欲對虛擬歌手形象或相關作品進行二次創作，請務必遵守「自由之光」團隊發布的相關規定。未經授權的二次創作可能涉及侵權行為。
+
+若您對本作品的內容有任何疑問，或需要獲得使用許可，請透過以下電子郵件地址聯繫我們：
+
+Email: light.of.liberty.2023@gmail.com
+
+「自由之光」團隊保留對本聲明內容的最終解釋權。任何違反本聲明之行為，我們將保留追究法律責任的權利。
+
+© 2024 自由之光（Light of Liberty）. 保留所有權利。
+
+// ======================================================================
+// 自由之光（Light of Liberty）著作權聲明與使用規範
+// Copyright Notice and Terms of Use by Light of Liberty
+//
+// 本程式碼及相關檔案（包括但不限於圖片、音訊、視訊與文字）之著作權，
+// 均屬「自由之光（Light of Liberty）」團隊所有，並受中華民國著作權法
+// 及國際法規保護。
+//
+// This source code and associated files (including but not limited to
+// images, audio, video, and text) are the intellectual property of the
+// "Light of Liberty" team and are protected by copyright laws.
+//
+// 未經明確書面許可，嚴禁以任何形式進行以下行為：
+// 1. 複製、修改、再分發本程式碼。
+// 2. 在未經授權的情況下，使用本作品中的任何圖片或資產。
+//
+// The following actions are strictly prohibited without prior written permission:
+// 1. Reproduction, modification, or redistribution of this source code.
+// 2. Unauthorized use of any images or assets contained within this work.
+//
+// 追溯聲明 (Traceability Notice)：
+// 本程式碼包含「自由之光」獨有的標記。任何部分或完整複製本程式碼，
+// 皆可能攜帶這些標記，使我們得以追溯其來源。
+//
+// This code contains unique markers owned by "Light of Liberty." Any
+// partial or full reproduction of this code may carry these markers,
+// allowing us to trace its origin.
+//
+// 聯絡信箱（Contact）: light.of.liberty.2023@gmail.com
+//
+// © 2024 自由之光（Light of Liberty）. 保留所有權利。
+// © 2024 Light of Liberty. All Rights Reserved.
+// ======================================================================
